@@ -1,0 +1,94 @@
+ 
+
+body {font-family:Verdana,Arial,sans-serif;font-size:small;font-weight:normal;background:#fff;color:#555;width:800px;}
+a:link {text-decoration:none;color:#69f;}
+a:visited,a:active {text-decoration:none;color:#33c;}
+a:hover {text-decoration:underline;color:#0cf;}
+a.extLink { border:1px dashed #ccccff; }
+a.anchorOnly {visibility:hidden;height:1px;font-size:1px;}
+canvas {border:2px solid #00f;}
+code {font-family:"Courier New",Courier,monospace;font-size:small;font-weight:normal;color:#66f;}
+form {border:1px solid #999;padding:4px;}
+h1,h2,h3,h4,h5,h6 {font-weight:bold;color:#000;}
+h1 {font-family:sans-serif;font-size:large;float:left;padding:16px;}
+h2,h3,h4,h5,h6 {clear:both;}
+h2 {font-size:large;}
+h3 {font-size:medium;}
+h4,h5,h6 {font-size:small;}
+h4 {text-decoration:underline;}
+img {border:0;}
+img.baaLogo {float:left;margin-top:8px;}
+p {margin-bottom:8px;padding:0px 4px 4px 4px;}
+p.authorship {text-align:right;}
+form p{margin-bottom:2px;padding:0px 1px 4px 4px;}
+table {border-collapse:collapse;border:1px solid #F6A2B6;margin:8px 0px;padding:0px;}
+table.journals {float:left;margin-right:12px;}
+table.wide {font-size:66%;}
+tr.highlight {background:#ff0;}
+th {font-weight:bold;background:#F6A2B6;color:#fff;}
+th,td {padding:2px 8px;border:1px solid #F6A2B6;}
+td.tenure {text-align:center;}
+ul li {list-style-type:disc;}
+ul li li {list-style-type:circle;}
+
+.alignRight {text-align:right;}
+.book {border:1px solid #ccc;margin:4px;padding:2px;}
+.book p {margin:0px;padding:0px;}
+.book .notes {font-style:italic;}
+.box {border:2px solid #999;padding:4px;}
+.boxHead {font-size:small;font-weight:bold;color:#fff;background:#F6A2B6;margin:0;padding:4px;}
+.caption, .credit {font-size:smaller;}
+.clear {clear:both;font-size:1px;visibility:hidden;}
+.contributor img {float:right; margin-left:8px;}
+.contributor p {margin:2px;}
+.dead {color:#f00;font-weight:bold;}
+.director {font-size:80%;margin:4px 0px;}
+.directorPhoto {float:right;margin-left:8px;}
+.directorPhoto p {margin-top:0;}
+.disclaimer {font-style:italic;border:2px solid #F6A2B6;padding:8px;}
+.formSection {border-bottom:1px dashed #999;margin-bottom:4px;}
+.left {float:left; margin-right:8px;}
+.pageAuthor {font-style:italic;}
+.results {font-weight:bold;color:#49f;}
+.revision,.copyright,.footnote {font-size:x-small;margin:0;}
+.right {float:right; margin-left:8px;}
+.smaller {font-size:smaller;}
+
+#banner {clear:both;width:800px;height:78px;background:#F6A2B6;margin:0;padding:0 8px;}
+#bannerData {width:800px;margin-top:-2px;padding:2px 8px 2px 8px;background:#ddd;float:left;}
+#footer {clear:both;width:800px;border-top:2px solid #F6A2B6;}
+#jd {float:left;margin-right:8px;margin-left:150px;padding:0;}
+#moon {float:left;margin-left:100px;margin-right:8px;padding:0;}
+
+#mainColumn {width:645px;float:right;}
+#sideColumn {width:150px;}
+#sideColumn img {margin-bottom:16px;float:right;}
+
+#linksInPage {width:146px;border:2px solid #F6A2B6;float:right;clear:left;}
+#linksInPage ul {margin:0;padding:0;}
+#linksInPage li {list-style:none;margin:4px;}
+
+#mainMenu {margin:8px 0px 4px 0px;padding:0px;}
+ 
+#mainMenu h2 {display:none;margin:0px;}
+#mainMenu ul {margin:0px;padding:4px 0px 5px 0px;border-bottom:3px solid #F6A2B6;font-size:80%;font-weight:bold;}
+#mainMenu li {list-style:none;margin:0px;padding:0px;white-space:nowrap;display:inline;}
+#mainMenu ul li a {padding:4px 6px;margin:1px 0px 0px 0px;border:none;color:#fff;background:#aaa;text-decoration:none;}
+#mainMenu ul li a:link:hover,
+#mainMenu ul li a:visited:hover {background:#F6A2B6;text-decoration:underline;}
+ 
+#mainMenu ul li a#current {color:#000;background:#F6A2B6;margin:0px;border:solid 2px #F6A2B6;}
+
+#subMenu {margin:8px 0px 4px 0px;padding:0px;}
+ 
+#subMenu h3 {display:none;margin:0px;}
+#subMenu ul {margin:0px;padding:4px 0px 5px 0px;border-bottom:3px solid #F6A2B6;font-size:80%;font-weight:bold;}
+#subMenu li {list-style:none;margin:0px;padding:0px;white-space:nowrap;display:inline;}
+#subMenu ul li a {padding:4px 6px;margin:1px 0px 0px 0px;border:none;color:#fff;background:#aaa;text-decoration:none;}
+#subMenu ul li a:link:hover,
+#subMenu ul li a:visited:hover {background:#F6A2B6;text-decoration:underline;}
+ 
+#subMenu ul li a#subCurrent {color:#000;background:#F6A2B6;margin:0px;border:solid 2px #F6A2B6;}
+
+#tabContent {margin:0;}
+
